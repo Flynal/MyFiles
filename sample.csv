@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-06-28T11:17:31.734Z,40.790638,-73.864109,22.89,4.4,mb,,82,0.413,0.81,us,us700046i1,2019-06-28T12:08:43.681Z,"3km NE of Finca Blanco Numero Uno, Panama",earthquake,5.6,6.4,0.067,64,reviewed,us,us
+2019-06-28T09:24:08.880Z,40.613262,-74.003404,6.01,2.8,md,26,116,0.08105,0.05,nc,nc73203191,2019-06-28T11:50:03.687Z,"12km WSW of Toms Place, CA",earthquake,0.26,1,0.17,31,automatic,nc,nc
